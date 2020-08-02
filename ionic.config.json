@@ -1,0 +1,7 @@
+{
+  "name": "ionic-alcometer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
